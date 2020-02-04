@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /ext331
+RewriteRule ^$ docs/index.html [L,R=301]
